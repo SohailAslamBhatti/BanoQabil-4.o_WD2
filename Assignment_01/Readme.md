@@ -1,5 +1,3 @@
----
-
 # 📝 JavaScript Assignment – Q1 to Q35
 
 **Submitted By:** Sohail Aslam Bhatt
